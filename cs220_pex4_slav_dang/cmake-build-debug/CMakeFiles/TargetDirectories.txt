@@ -1,0 +1,3 @@
+/cygdrive/c/Users/C20Tricia.Dang/Documents/C3C_2nd_Semester/CS220/cs220_pex4_slav_dang/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/C20Tricia.Dang/Documents/C3C_2nd_Semester/CS220/cs220_pex4_slav_dang/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/C20Tricia.Dang/Documents/C3C_2nd_Semester/CS220/cs220_pex4_slav_dang/cmake-build-debug/CMakeFiles/PEX4.dir

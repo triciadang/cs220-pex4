@@ -1,0 +1,1 @@
+/usr/bin/cc -mwindows -g  -Wl,--enable-auto-import CMakeFiles/PEX4.dir/PEX4_Shannon_switching_game.c.o CMakeFiles/PEX4.dir/gameLogic.c.o CMakeFiles/PEX4.dir/graphics.c.o CMakeFiles/PEX4.dir/Graph.c.o  -o PEX4.exe -Wl,--out-implib,libPEX4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
